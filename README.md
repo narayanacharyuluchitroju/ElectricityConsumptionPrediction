@@ -1,0 +1,2 @@
+# ElectricityConsumptionPrediction
+Text data - Pytorch
